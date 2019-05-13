@@ -1,0 +1,12 @@
+[{"departmentId":10,
+ "departmentName":"IT",
+ "country":"US",
+ "manager":{"firstName":"John","lastName":"Chen","email":"john.chen@xxx.com","doj":"2012-04-23T18:25:43.511Z"}},
+{"departmentId":20,
+ "departmentName":"Marketing",
+ "country":"US",
+ "manager":{"firstName":"Ameya","lastName":"Job","email":"ameya.job@xxx.com"}},
+{"departmentId":30,
+ "departmentName":"HR",
+ "country":"US",
+ "manager":{"firstName":"Pat","lastName":"Fay","email":"pat.fey@xxx.com"}}]
