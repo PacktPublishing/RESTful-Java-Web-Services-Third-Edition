@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+   
+    <context-param>
+        <param-name>server.request.cache.infinispan.config.file</param-name>
+        <param-value>infinispan.xml</param-value>
+    </context-param>
+    <context-param>
+        <param-name>server.request.cache.infinispan.cache.name</param-name>
+        <param-value>MyCache</param-value>
+    </context-param>
+   
+</web-app>

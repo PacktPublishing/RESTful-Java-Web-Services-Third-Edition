@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-OAuthDemoDeployJettyServer</actionName>
+            <displayName>OAuthDemoDeployJettyServer</displayName>
+            <goals>
+                <goal>clean</goal>
+                <goal>package</goal>
+                <goal>jetty:run</goal>
+                <goal>-Djetty.port=15647</goal>
+            </goals>
+        </action>
+    </actions>

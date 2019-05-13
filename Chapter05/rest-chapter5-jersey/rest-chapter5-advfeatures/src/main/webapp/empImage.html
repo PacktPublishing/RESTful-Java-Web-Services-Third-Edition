@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--
+Copyright © 2015 Packt Publishing  - All Rights Reserved.
+Unauthorized copying of this file, via any medium is strictly prohibited.
+-->
+<html>
+    <head>
+        <title>File upload</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form action="webresources/employees/100/image" method="post" enctype="multipart/form-data">
+
+            <p>
+                Choose photo for employee# 100 : <input type="file" name="empImgFile" multiple />
+
+                <br>
+                <input type="submit" value="Upload It" />
+                <br>
+            </p>
+            Image of employee# 100
+            <br>
+            <img alt="No image" src="webresources/employees/100/image"  id="id"/>
+        </form>
+
+    </body>
+</html>
