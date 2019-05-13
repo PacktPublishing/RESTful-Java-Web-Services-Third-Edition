@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 26 13:24:03 IST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014e-2edb-f4b6-000007605708 
+on database directory memory:D:\mywork\mybooks\javarestwebservices\restfuljavasvn\trunk\chapter8\source\rest-chapter8-jaxrs\rest-chapter8-service\sample with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/D:/applications/maven/localrepo/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=D:\mywork\mybooks\javarestwebservices\restfuljavasvn\trunk\chapter8\source\rest-chapter8-jaxrs\rest-chapter8-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

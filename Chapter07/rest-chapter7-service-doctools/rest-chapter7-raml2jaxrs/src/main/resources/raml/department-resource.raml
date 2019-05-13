@@ -1,0 +1,36 @@
+#%RAML 1.0
+title: Raml API generated from rest-chapter7-jaxrs2raml
+version: 1.0
+baseUri: "http://www.packtpub.com"
+mediaType: "*/*"
+types:
+    Department: !include schemas/department.xsd
+/departments:
+    post:
+        body:
+            type: Department
+    get:
+        responses:
+            200:
+                body:
+                    application/json:
+                        type: array
+        queryParameters:
+            from:
+                type: integer
+                default: 1
+                required: false
+            to:
+                type: integer
+                default: 100
+                required: false
+    /{id}:
+        get:
+            responses:
+                200:
+                    body:
+                        application/json:
+                            type: Department
+        put:
+            body:
+                type: Department
