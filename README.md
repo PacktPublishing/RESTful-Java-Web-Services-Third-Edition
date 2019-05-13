@@ -10,14 +10,12 @@ This is the code repository for [RESTful Java Web Services - Third Edition](http
 Representational State Transfer (REST) is a simple yet powerful software architecture style to create lightweight and scalable web services. The RESTful web services use HTTP as the transport protocol and can use any message formats, including XML, JSON(widely used), CSV, and many more, which makes it easily inter-operable across different languages and platforms.
 
 This book covers the following exciting features:
-Introduce yourself to the RESTful software architectural style and the REST API design principles 
-Make use of the JSR 353 API, JSR 374 API, JSR 367 API and Jackson API for JSON processing 
-Build portable RESTful web APIs, making use of the JAX-RS 2.1 API 
-Simplify API development using the Jersey and RESTEasy extension APIs 
-Secure your RESTful web services with various authentication and authorization mechanisms 
-Get to grips with the various metadata solutions to describe, produce, and consume RESTful web services 
-Understand the design and coding guidelines to build well-performing RESTful APIs 
-See how the role of RESTful web services changes with emerging technologies and trends 
+
+* Introduce yourself to the RESTful software architectural style and the REST API design principles 
+* Make use of the JSR 353 API, JSR 374 API, JSR 367 API and Jackson API for JSON processing 
+* Build portable RESTful web APIs, making use of the JAX-RS 2.1 API 
+* Simplify API development using the Jersey and RESTEasy extension APIs 
+* Secure your RESTful web services with various authentication and authorization mechanisms 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788294041) today!
 
