@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Bogunuva Mohanram Balachandar**
-Bogunuva Mohanram Balachandar works as associate director for a leading American multinational corporation, listed in NASDAQ-100, that provides digital, technology, consulting, and operations services. He has extensive experience in the design and development of multiple enterprise application integration projects, using various tools and technologies such as Oracle SOA Suite, Oracle Service Bus, Oracle AIA, IBM WebSphere Process Server, web services, RESTful services, Business Process Execution Language (BPEL), IBM WebSphere MQ, TIBCO EMS, Java, JMS, and Spring Integration.
+ works as associate director for a leading American multinational corporation, listed in NASDAQ-100, that provides digital, technology, consulting, and operations services. He has extensive experience in the design and development of multiple enterprise application integration projects, using various tools and technologies such as Oracle SOA Suite, Oracle Service Bus, Oracle AIA, IBM WebSphere Process Server, web services, RESTful services, Business Process Execution Language (BPEL), IBM WebSphere MQ, TIBCO EMS, Java, JMS, and Spring Integration.
 He is certified in SOA, web services, and cloud technologies and has over 16 years of IT industry experience in software design and development. Prior to joining his current employer, he worked with IBM, Accenture, and Wipro.
 Balachandar, in his current role, is responsible for designing the integration landscape for a leading bank.
 Balachandar currently lives in London, UK with his wife, Lakshmi, and daughters, VeenaSri and NavyaSree
