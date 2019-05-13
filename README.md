@@ -49,16 +49,6 @@ With the following software and hardware list you can run all code files present
 | All      | Oracle Database Express Edition 11g Release 2, or above | Windows, Mac OS X, and Linux (Any) |
 | All      | Oracle database JDBC driver (ojdbc7.jar or above)       | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
-### Related products
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Bogunuva Mohanram Balachandar**
@@ -67,17 +57,6 @@ He is certified in SOA, web services, and cloud technologies and has over 16 yea
 Balachandar, in his current role, is responsible for designing the integration landscape for a leading bank.
 Balachandar currently lives in London, UK with his wife, Lakshmi, and daughters, VeenaSri and NavyaSree
 
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
